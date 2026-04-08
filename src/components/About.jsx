@@ -64,7 +64,7 @@ const About = ({ scrollTo, openAboutPage }) => {
               <div className="absolute -inset-1 bg-gradient-to-r from-orange-600 to-orange-400 rounded-lg blur opacity-0 group-hover:opacity-50 transition duration-500" />
               
               <img 
-                src="/src/images/wahhab.jpg" 
+                src="/images/wahhab.jpg" 
                 className="relative w-full aspect-square object-cover grayscale group-hover:grayscale-0 transition-all duration-700 rounded-lg shadow-2xl" 
                 alt="Wahhab A. Abulai - Steel Bending Expert" 
               />

@@ -33,22 +33,22 @@ const Portfolio = () => {
     {
       title: "Custom Steel Bending",
       category: "Steel Bending",
-      image: "/src/images/photo4.jpg",
+      image: "/images/photo4.jpg",
     },
     {
       title: "Precision Fabrication",
       category: "Construction",
-      image: "/src/images/photo1.jpg",
+      image: "/images/photo1.jpg",
     },
     {
       title: "Industrial Steel Work",
       category: "Steel Work",
-      image: "/src/images/photo5.jpg",
+      image: "/images/photo5.jpg",
     },
     {
       title: "Custom Fabrication",
       category: "Fabrication",
-      image: "/src/images/photo3.jpg",
+      image: "/images/photo3.jpg",
     },
   ];
 
